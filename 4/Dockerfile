@@ -11,4 +11,4 @@ VOLUME /gitbucket
 EXPOSE 8080
 EXPOSE 29418
 
-ENTRYPOINT ["/opt/entrypoint.sh"]
+CMD ["/opt/entrypoint.sh"]
