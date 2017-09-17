@@ -1,6 +1,8 @@
 # docker-gitbucket
-Dockerfiles for GitBucket
+
 [![Docker build](http://dockeri.co/image/miyabis/gitbucket)](https://registry.hub.docker.com/u/miyabis/gitbucket/)
+
+Dockerfiles for GitBucket
 
 How to use this image
 --------
