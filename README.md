@@ -16,7 +16,7 @@ latest version 4.26.0
 docker run -d -p 8200:8080 miyabis/gitbucket
 ```
 
-Access to host global IP: 8080
+Access to host global IP: 8200
 
 ## ENV
 
